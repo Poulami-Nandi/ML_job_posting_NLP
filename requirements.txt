@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+textblob
+spacy
+wordcloud
+ipywidgets
+umap-learn
+plotly
